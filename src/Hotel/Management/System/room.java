@@ -64,6 +64,12 @@ public class room extends JFrame implements  ActionListener{
         setSize(900,600);
         setVisible(true);
     }
+//test task 321
+
+public void m2 (){
+    //logic
+
+}
 
     @Override
     public void actionPerformed(ActionEvent e) {
