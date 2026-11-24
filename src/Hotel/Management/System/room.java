@@ -84,4 +84,13 @@ public void m2 (){
     public static void main(String[] args) {
         new room();
     }
+
+// task -320
+    public void m1(){
+int i =10;
+int j =20;
+int k = i+j;
+//logic
+}
+
 }
