@@ -69,6 +69,8 @@ public class room extends JFrame implements  ActionListener{
 public void m2 (){
     //logic
     String name ="Kanhu";
+    String name ="Aman";
+
 
 }
 
