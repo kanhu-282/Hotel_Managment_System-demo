@@ -95,5 +95,10 @@ int j =20;
 int k = i+j;
 //logic
 }
+// task -325
+    public void m3(){
+//logic
+
+
 
 }
